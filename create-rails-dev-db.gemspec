@@ -25,7 +25,9 @@ Gem::Specification.new do |s|
      "README.rdoc",
      "Rakefile",
      "VERSION",
+     "bin/create-rails-dev-db",
      "config/database.yml",
+     "create-rails-dev-db.gemspec",
      "lib/create-rails-dev-db.rb",
      "test/helper.rb",
      "test/test_create-rails-dev-db.rb"
