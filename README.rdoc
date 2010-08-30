@@ -1,6 +1,6 @@
 = create-rails-dev-db
 
-Description goes here.
+This gem creates the database.yml file for a Rails app and creates the db in mysql and grants the permissions for the user.
 
 == Note on Patches/Pull Requests
  
